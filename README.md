@@ -45,16 +45,6 @@ Create another `<script>` and write Hilo code there.
 
 ## About Hilo
 
-### Name
-
-Well, it's a weird name. The reason behind choosing this name is
-that the author of Hilo, Erik Royall, likes to write *Hilo Wald*
-programs instead of _Hello World_ programs. And when he got the
-idea of writing a JavaScript library he used the first word in
-*Hilo Wald* as the name for the library. 
-_Note: The name **Wald** will undoubtedly be used as a name for_
-_his next project so..._
-
 ### License
 
 Copyright (c) 2013 **Erik Royall**
